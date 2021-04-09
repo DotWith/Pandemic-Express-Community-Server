@@ -2,7 +2,7 @@
 Pandemic Express Community Server is a open-source balance mod server.
 
 # Discord
-https://discord.gg/v6TjB4V8H4
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 
 # Features
 * Old mimic from mimic week.
